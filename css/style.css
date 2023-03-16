@@ -72,6 +72,23 @@ main {
   background-repeat: no-repeat no-repeat;
   background-size: cover;
 }
+.bg-judge{
+  background-image:linear-gradient(0deg,rgba(255, 255, 255, 0.9),rgba(255, 255, 255, 0.9)), url(../img/judge.jpg);
+  background-position: center;
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+}
+.btn-gold{
+  background-color: #b89b5e;
+  border: #b89b5e;
+}
+.btn-gold:hover{
+  background-color: #8a7445;
+  border: #8a7445;
+}
+.btn-gold:active{--bs-btn-active-bg: #6b582f;
+  --bs-btn-active-border-color: #6b582f;
+}
 
 @media all and (max-width: 767px){
     .slide {
