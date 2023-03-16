@@ -19,7 +19,7 @@ h2{
 .nav-line-bottom{
   border-bottom: solid 2px #b89b5e;
 }
-nav ul li a:hover{
+nav ul li a span:hover{
   border-bottom: solid 1px #b89b5e;
   transition: all 1s 1;
 }
