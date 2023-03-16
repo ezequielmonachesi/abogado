@@ -16,6 +16,13 @@ h2{
   font-family: 'Libre Baskerville', serif;
   font-weight: 100
 }
+.nav-line-bottom{
+  border-bottom: solid 2px #b89b5e;
+}
+nav ul li a:hover{
+  border-bottom: solid 1px #b89b5e;
+  transition: all 1s 1;
+}
 .shadowLogo{
     text-shadow:  0px 2px 3px rgba(0,0,0,0.4),
     0px 3px 8px rgba(0,0,0,0.1),
