@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 body {
   display: flex;
   flex-direction: column;
@@ -10,6 +11,10 @@ body {
 main {
   flex-grow: 0;
   margin-top: 86px;
+}
+h2{
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 100
 }
 .shadowLogo{
     text-shadow:  0px 2px 3px rgba(0,0,0,0.4),
@@ -88,6 +93,9 @@ main {
 }
 .btn-gold:active{--bs-btn-active-bg: #6b582f;
   --bs-btn-active-border-color: #6b582f;
+}
+.bg-gold{
+  background-color: #b89b5e;
 }
 
 @media all and (max-width: 767px){
