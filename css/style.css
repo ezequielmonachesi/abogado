@@ -48,6 +48,24 @@ main {
   0px 7px 10px rgba(0,0,1);
   font-family: 'Abril Fatface', cursive;
 }
+.imgDatos{
+  background-image:linear-gradient(0deg,rgba(0,0,0,0.9),rgba(0,0,0,0.4)), url(../img/fondoDatos.jpg);
+  background-position: center;
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+}
+.text-gold{
+  color: #b89b5e;
+}
+.line-gold{
+  border-left: solid 1px #b89b5e;
+}
+.nuestrosClientes{
+  background-image:linear-gradient(0deg,rgba(0,0,0,0.9),rgba(0,0,0,0.4)), url(../img/write.jpg);
+  background-position: center;
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+}
 
 @media all and (max-width: 767px){
     .slide {
