@@ -41,14 +41,14 @@ nav ul li a span:hover{
 
 }
 .slide2{
-  background-image:linear-gradient(0deg,rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../img/slide2.jpg);
+  background-image:linear-gradient(0deg,rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../img/slide1.jpg);
   background-position: center;
   background-repeat: no-repeat no-repeat;
   background-size: cover;
 
 }
 .slide3{
-  background-image:linear-gradient(0deg,rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../img/slide3.jpg);
+  background-image:linear-gradient(0deg,rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../img/slide1.jpg);
   background-position: center;
   background-repeat: no-repeat no-repeat;
   background-size: cover;
